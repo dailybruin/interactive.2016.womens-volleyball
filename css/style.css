@@ -4,3 +4,20 @@
     background: transparent;
     width: 100%;
 }
+h1{
+	font-size: 80px;
+}
+@media (min-width: 700px) {
+	.container{
+		margin: 50px;
+	}
+}
+
+@media (max-width: 700px) {
+  .container {
+    margin: 0px;
+  }
+  p{
+  	font-size: 23px;
+  }
+}
