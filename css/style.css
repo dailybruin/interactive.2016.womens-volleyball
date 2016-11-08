@@ -6,6 +6,16 @@
   color: white;
 }
 
+.content {
+  font-family: "Karma";
+  font-size: 18px;
+}
+
+.photo-caption {
+  font-family: "Roboto";
+  font-size: 14px;
+}
+
 .parallax-window {
     min-height: 1000px;
     height: auto;
