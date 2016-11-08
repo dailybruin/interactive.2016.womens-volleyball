@@ -1,3 +1,16 @@
+.daily-bruin-link {
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.daily-bruin-link a{
+  background-color: transparent;
+}
+
+.daily-bruin-link a img{
+  width: 100px;
+}
+
 .jumbotron {
   background-image: url("../photos/cover photo.jpg");
   background-size: cover;
@@ -32,8 +45,8 @@
 	}
   .jumbotron h1{
     padding: 30px;
-    padding-top: 420px;
-    padding-bottom: 220px;
+    padding-top: 400px;
+    padding-bottom: 240px;
     font-size: 85px;
     text-align: center;
     font-family: 'Roboto Condensed', sans-serif;
