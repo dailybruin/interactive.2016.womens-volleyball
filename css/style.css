@@ -1,3 +1,11 @@
+.jumbotron {
+  background-image: url("../photos/cover photo.jpg");
+  background-size: cover;
+  height: 500px; /* Is there a better way to do this? */
+  display: block;
+  color: white;
+}
+
 .parallax-window {
     min-height: 1000px;
     height: auto;
