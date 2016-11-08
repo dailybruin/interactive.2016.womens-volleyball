@@ -1,3 +1,7 @@
+.parallax-mirror {
+    z-index:1
+}
+
 .daily-bruin-link {
     float: left;
     margin-top: 30px;
@@ -8,7 +12,7 @@
 }
 
 .daily-bruin-link a img{
-  width: 100px;
+  width: 125px;
 }
 
 .jumbotron {
@@ -45,7 +49,7 @@
 	}
   .jumbotron h1{
     padding: 30px;
-    padding-top: 400px;
+    padding-top: 425px;
     padding-bottom: 240px;
     font-size: 85px;
     text-align: center;
