@@ -8,6 +8,7 @@
 .jumbotron h1{
   padding-top: 300px;
   padding-bottom: 300px;
+  padding-left: 40px;
 }
 
 .parallax-window {
@@ -36,5 +37,5 @@ h1{
   }
 }
 .col-xs-12{
-  
+
 }
